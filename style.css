@@ -1,0 +1,17 @@
+/*Blad eagle image*/
+.img{
+    width: 70px;
+    height: 70px;
+}
+
+/*Baby photo*/
+.img2{ 
+    width: 400px;
+    height: 250px;
+}
+
+/*All 4 timeline photos*/
+#part{
+    width: 100px;
+    height: 100px;
+}
