@@ -53,6 +53,29 @@
 .container-2{
     border: 2px solid #1F2937;
     background-color: #1F2937;
+    height: 400px;
+}
+
+/*Baby photo*/
+.img2{   
+    margin-left: 900px;
+}
+
+h1{
+    color: #F9FAF8;
+    text-size-adjust: 48px;
+    margin-left: 315px;
+}
+
+/*First paragragh*/
+.life{
+    margin-left: 315px;
+    color: #F9FAF8;
+}
+
+/*About me button*/
+.about{
+    margin-left: 315px;
 }
 
 /*Section 3*/
