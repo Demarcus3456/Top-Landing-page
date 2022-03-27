@@ -14,6 +14,10 @@ body{
     height: 250px;
 }
 
+.img2:hover {
+    transform: scale(1.93);
+    }
+
 /*All 4 timeline photos*/
 #part{
     width: 100px;
@@ -55,25 +59,21 @@ body{
 
 /*Section 2*/
 .container-2{
-    border: 2px solid #006aff;
     background-color: #1F2937;
     height: 400px;
     display: flex;
 }
 
 .sub2{
-    border: 3px solid red;
+    width: 900px;
+    align-self: center;
 }
 
 .sub23{
-    border: 3px solid green;
+    Width: 950px;
+    align-self: center;
 }
-
-/*Baby photo*/
-.img2{   
-    margin-left: 900px;
-}
-
+/*Life experience*/
 h1{
     color: #F9FAF8;
     text-size-adjust: 48px;
@@ -88,6 +88,8 @@ h1{
 
 /*About me button*/
 .about{
+    background-color: rgb(31, 187, 235);
+    color: white;
     margin-left: 315px;
     border-radius: 8px;
 }
