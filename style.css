@@ -76,11 +76,11 @@ h1{
 /*About me button*/
 .about{
     margin-left: 315px;
+    border-radius: 8px;
 }
 
 /*Section 3*/
 .container-3{
-    border: 2px solid red;
     display: flex;
     gap: 20px;
     height: 500px;
@@ -94,20 +94,41 @@ h1{
  .img3{
     border: 5px solid gold;
     align-self: center;
+    border-radius: 8px;
  }
 
 /*Section 4*/
 .container-4{
-    background-color:grey;
+    background-color:#E5E7EB;
     height: 500px;
-    border: 5px solid green;
+    display: flex;
+}
 
+/*Libra Gif*/
+.giphy-embed{
+    align-self: center;
 }
 
 /*Section 5*/
 .container-5{
-    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
 }
+
+/*Sub container*/
+.sub-5{
+    background-color:rgb(31, 187, 235);
+    border-radius: 8px;
+    width: 1200px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 
 /*Section 6*/
 .container-6{
