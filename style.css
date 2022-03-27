@@ -98,7 +98,6 @@ h2{
     width: 1700px;
     display: flex;
     justify-content: center;
-    text-
 }
 
  /*4 pictures*/
@@ -119,6 +118,11 @@ h2{
 /*Libra Gif*/
 .giphy-embed{
     align-self: center;
+}
+
+/*Libra Qoutes*/
+.libra{
+    font-size: 20px;
 }
 
 /*Section 5*/
