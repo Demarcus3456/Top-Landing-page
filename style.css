@@ -1,3 +1,7 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+
 /*Blad eagle image*/
 .img{
     width: 70px;
@@ -82,19 +86,26 @@ h1{
 /*Section 3*/
 .container-3{
     display: flex;
-    gap: 20px;
     height: 500px;
+    gap: 30px;
     justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
- h2{
-     margin-bottom: 250px;
- }
+
+h2{
+    border: 3px solid rgb(255, 255, 255);
+    width: 1700px;
+    display: flex;
+    justify-content: center;
+    text-
+}
 
  /*4 pictures*/
  .img3{
-    border: 5px solid gold;
-    align-self: center;
+    border: 3px solid rgb(31, 187, 235);
     border-radius: 8px;
+    margin-bottom: 100px;
  }
 
 /*Section 4*/
@@ -102,6 +113,7 @@ h1{
     background-color:#E5E7EB;
     height: 500px;
     display: flex;
+    justify-content: space-evenly;
 }
 
 /*Libra Gif*/
@@ -120,6 +132,7 @@ h1{
 /*Sub container*/
 .sub-5{
     background-color:rgb(31, 187, 235);
+    color: white;
     border-radius: 8px;
     width: 1200px;
     height: 150px;
@@ -129,6 +142,14 @@ h1{
     justify-content: space-evenly;
 }
 
+.this{
+    background-color: rgb(31, 187, 235);
+    color: white;
+    border: 3px solid white;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px
+}
 
 /*Section 6*/
 .container-6{
@@ -137,5 +158,5 @@ h1{
     height: 100px;
     display: flex;
     align-items: center;
-    justify-content: center;  
+    justify-content: center; 
 }
