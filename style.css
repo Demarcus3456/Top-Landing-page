@@ -27,13 +27,8 @@ body{
 .container-1{
     background-color: #1F2937;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-evenly;
     border: 2px solid #1F2937;
-}
-
-.eagle{
-    margin-right: 650px;
-    margin-top: 3px;
 }
 
 /*Links container*/
@@ -133,9 +128,7 @@ h1{
 /*Section 4*/
 .container-4{
     background-color:#E5E7EB;
-    height: 500px;
     display: flex;
-    justify-content: space-evenly;
 }
 
 /*Libra Gif*/
